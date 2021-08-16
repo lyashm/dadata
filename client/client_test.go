@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/ekomobile/dadata/v2/api/suggest"
+	"github.com/lyashm/dadata/v2/api/suggest"
 )
 
 func ExampleNewClient() {
